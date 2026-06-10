@@ -1,0 +1,10 @@
+{
+  "name": "scanner-vulnerable-fixture",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Synthetic vulnerable repository fixture for GitLab scanner validation.",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js"
+  }
+}

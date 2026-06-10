@@ -1,0 +1,12 @@
+{
+  "service": "scanner-test-api",
+  "environment": "production",
+  "apiKey": "AIzaSyD-ScannerTestOnly111111111111111111111",
+  "adminToken": "Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.scanner-test.signature",
+  "database": {
+    "host": "db.internal.example",
+    "username": "admin",
+    "password": "SuperSecretPassword123!"
+  },
+  "stripeSecretKey": "sk_live_51ScannerTestOnly111111111111111111111111"
+}
